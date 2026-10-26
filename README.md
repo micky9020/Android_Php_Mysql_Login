@@ -83,14 +83,3 @@ curl -X POST http://localhost/login_android/api/register.php \
 ## 📄 Licencia
 
 MIT — ver [LICENSE](LICENSE).
-
-## ⬆️ Subir a GitHub
-
-```bash
-git init
-git add .
-git commit -m "Proyecto inicial: login con PHP, MySQL y Android"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/android-php-mysql-login.git
-git push -u origin main
-```
