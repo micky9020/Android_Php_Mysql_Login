@@ -1,0 +1,15 @@
+# Android
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+android/app/build/
+android/build/
+# PHP
+backend/config/db.local.php
+vendor/

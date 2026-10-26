@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="fill_all">Completa todos los campos</string>
+    <string name="invalid_email">Correo electrónico inválido</string>
+    <string name="short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="connection_error">No se pudo conectar con el servidor</string>
+</resources>
